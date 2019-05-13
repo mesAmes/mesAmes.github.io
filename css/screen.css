@@ -1289,7 +1289,7 @@ ul.pagination li a {
 }
 .blog p.meta, .singleblog p.meta {
  padding:10px 0px 60px 10px;
- background: #415164;
+ background:#efefef;
 }
 form#contact_form textarea {
  width: 200px;
