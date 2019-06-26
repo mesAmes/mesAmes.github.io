@@ -66,7 +66,7 @@ div.blankSeparator2 {
 /****************************** HOME - Content Part - Logo&Menu ******************************/
 /* Header - Logo & Menu */
 #header {
-	background:#bfd6e4;
+	background-image: url("../images/home/header.jpEg");
 	margin-top:0px;
 	border-bottom:1px solid #6d8696;
 }
@@ -156,7 +156,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
 	text-decoration:none;
 	text-transform:uppercase;
 	font-weight:600;
-	color: #FB9023;
+	color: #F3ECED;
 }
 li a#visited {
 	background: rgba(215, 234, 238, 0.3);
@@ -237,9 +237,9 @@ span.home {
 .flexslider {
 	margin: 0px 0 0 0;
 	padding: 0;
-	background:#fff;
-	border-top:1px solid #efefef;
-	border-bottom:5px solid #89a2b2;
+	background:#ED3450;
+	border-top:1px solid #ED3450;
+	border-bottom:5px solid #ED3450;
 }
 .flexslider .slides > li {
 	display: none;
